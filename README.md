@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ⚡ Alexis Darío García Agudelo</h1>
-<h3 align="center">👨‍💻 Un apasionado desarrollador web front-end con experiencia en la resolución de problemas y el mundo de la tecnología. Mi formación en ingeniería mecatrónica y mi participación en proyectos desafiantes me han permitido colaborar en equipos multidisciplinarios y adquirir habilidades especializadas en el desarrollo de aplicaciones web front-end. </h3>
-<h3 align="center">🚀 Me encanta explorar nuevas tecnologías y aprender constantemente. Mi enfoque se centra en crear interfaces de usuario atractivas y funcionales, utilizando tecnologías como HTML, CSS y JavaScript. Siempre busco mejorar la experiencia del usuario y seguir las mejores prácticas de desarrollo web.</h3>
-<h3 align="center"> 💡 Como desarrollador front-end, disfruto abordar desafíos técnicos y encontrar soluciones creativas para hacer que los diseños cobren vida en el navegador. Mi objetivo es crear experiencias interactivas y responsivas que brinden un valor significativo a los usuarios.</h3>
+<h1 align="center" >Hi 👋, I'm ⚡ Alexis Darío García Agudelo</h1>
+<h3 align="center" style="text-align: justify;">👨‍💻 Un apasionado desarrollador web front-end con experiencia en la resolución de problemas y el mundo de la tecnología. Mi formación en ingeniería mecatrónica y mi participación en proyectos desafiantes me han permitido colaborar en equipos multidisciplinarios y adquirir habilidades especializadas en el desarrollo de aplicaciones web front-end. </h3>
+<h3 align="center" style="text-align: justify;">🚀 Me encanta explorar nuevas tecnologías y aprender constantemente. Mi enfoque se centra en crear interfaces de usuario atractivas y funcionales, utilizando tecnologías como HTML, CSS y JavaScript. Siempre busco mejorar la experiencia del usuario y seguir las mejores prácticas de desarrollo web.</h3>
+<h3 align="center" style="text-align: justify;"> 💡 Como desarrollador front-end, disfruto abordar desafíos técnicos y encontrar soluciones creativas para hacer que los diseños cobren vida en el navegador. Mi objetivo es crear experiencias interactivas y responsivas que brinden un valor significativo a los usuarios.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
