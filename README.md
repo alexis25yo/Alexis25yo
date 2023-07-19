@@ -3,12 +3,13 @@
 <h3 style="text-align: justify;">🚀 Me encanta explorar nuevas tecnologías y aprender constantemente. Mi enfoque se centra en crear interfaces de usuario atractivas y funcionales, utilizando tecnologías como HTML, CSS y JavaScript. Siempre busco mejorar la experiencia del usuario y seguir las mejores prácticas de desarrollo web.</h3>
 <h3  style="text-align: justify; "> 💡 Como desarrollador front-end, disfruto abordar desafíos técnicos y encontrar soluciones creativas para hacer que los diseños cobren vida en el navegador. Mi objetivo es crear experiencias interactivas y responsivas que brinden un valor significativo a los usuarios.</h3>
 <br/><br/>
-<br/><br/>
-<br/><br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexisgarciafrontend" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexisgarciafrontend" height="30" width="40" /></a>
 </p>
+<br/><br/>
+<br/><br/>
 
 
 <h3 align="center">Languages and Tools:</h3>
