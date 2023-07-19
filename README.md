@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
+
+
+
